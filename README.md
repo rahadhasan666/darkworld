@@ -6,11 +6,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/rahadhasan666/darkworld/blob/main/Screenshot%202024-10-19%20083148.png" alt="project-screenshot" width="16" height="9/">
+<img src="https://github.com/rahadhasan666/darkworld/blob/main/Screenshot%202024-10-19%20083148.png" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://github.com/rahadhasan666/darkworld/blob/main/Screenshot%202024-10-19%20083203.png" alt="project-screenshot" width="16" height="9/">
+<img src="https://github.com/rahadhasan666/darkworld/blob/main/Screenshot%202024-10-19%20083203.png" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://github.com/rahadhasan666/darkworld/blob/main/Screenshot%202024-10-19%20083242.png" alt="project-screenshot" width="16" height="9/">
+<img src="https://github.com/rahadhasan666/darkworld/blob/main/Screenshot%202024-10-19%20083242.png" alt="project-screenshot" width="400" height="400/">
 
 <h2>🛠️ Installation Steps:</h2>
 
